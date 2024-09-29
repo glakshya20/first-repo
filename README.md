@@ -1,3 +1,3 @@
 # first-repo
-Lakshya Gupta , Pinewood
+Lakshya Gupta 
 This is my first GitHub repo #pr4
